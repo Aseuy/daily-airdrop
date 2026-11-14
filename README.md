@@ -10,9 +10,10 @@ Update: 15 Nov 2026. Rossa yang kerjakan daily-nya, senpai yang dari HP.
 - FarmLegends — check-in. 2.085 LEAF.
 - USDT Galaxy — 0,028 USDT (min WD 0,05).
 - make.fun — cek bounty baru tiap 6 jam, garap yang layak.
+- Epic Gift (@Botakga) — klaim free box harian (jangan deposit).
 
 ## Daily — HP senpai
-- Epic Gift — 1 free box / 24 jam (jangan deposit).
+- Epic Gift (Jazzy) — 1 free box / 24 jam (jangan deposit).
 - ALPHEA — check-in sebelum 07:00 WIB.
 
 ## make.fun — Bounty (@aseuy)

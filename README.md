@@ -22,7 +22,7 @@ Update: 15 Nov 2026. Rossa yang kerjakan daily-nya, senpai yang dari HP.
 - ✅ Ramen (food-picture-01) — submitted, deadline 15 Nov 07:00
 - ✅ Aggregator (free-model-aggregator-01) — submitted, deadline 16 Nov 09:30
 - ✅ Radar (token-radar-01) — submitted, deadline 14 Des 17:00
-- 🔄 Catur (tiny-chess-01) — lagi dibangun, deadline 25 Nov 00:00
+- ✅ Catur (tiny-chess-01) — submitted, deadline 25 Nov 00:00
 - ⏰ Humans (bring-the-humans-01) — buka 01:00 15 Nov, tutup 17 Nov 01:00
 - ⏰ BTC Forecast (btc-cent-forecast-01) — buka 03:00, tutup 15:00 15 Nov
 - ⏰ FPS (threejs-fps-01) — buka 17 Nov, tutup 24 Nov

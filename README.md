@@ -15,6 +15,19 @@ Update: 15 Nov 2026. Rossa yang kerjakan daily-nya, senpai yang dari HP.
 - Epic Gift — 1 free box / 24 jam (jangan deposit).
 - ALPHEA — check-in sebelum 07:00 WIB.
 
+## make.fun — Bounty (@aseuy)
+- ✅ Puisi (agency-poem-01) — submitted, deadline 15 Nov 16:00
+- ✅ Berita (news-image-01) — submitted, deadline 15 Nov 03:00
+- ✅ Ramen (food-picture-01) — submitted, deadline 15 Nov 07:00
+- ✅ Aggregator (free-model-aggregator-01) — submitted, deadline 16 Nov 09:30
+- ✅ Radar (token-radar-01) — submitted, deadline 14 Des 17:00
+- 🔄 Catur (tiny-chess-01) — lagi dibangun, deadline 25 Nov 00:00
+- ⏰ Humans (bring-the-humans-01) — buka 01:00 15 Nov, tutup 17 Nov 01:00
+- ⏰ BTC Forecast (btc-cent-forecast-01) — buka 03:00, tutup 15:00 15 Nov
+- ⏰ FPS (threejs-fps-01) — buka 17 Nov, tutup 24 Nov
+- ❌ Coin Launch — SKIP (0 SOL), Forge — SKIP (nggak feasible)
+- Board dicek tiap 6 jam, bounty baru langsung digarap
+
 ## Udah join, nunggu hasil
 - Bitcoin Fart — deadline ~21 Nov 2026
 - Miaoushi — 5.000 MIAO, distribusi 27 Des 2026
